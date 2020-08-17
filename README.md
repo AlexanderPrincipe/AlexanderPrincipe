@@ -38,4 +38,4 @@ const alexanderprincipe = {
 
 ---
 
-⭐️ From [@alexanderprincipe](https://github.com/alexanderprincipe
+⭐️ From [@alexanderprincipe](https://github.com/alexanderprincipe)
