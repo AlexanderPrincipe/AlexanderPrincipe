@@ -12,7 +12,6 @@
 
 ```javascript
 const alexanderprincipe = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "chess"],
     technologies: {
