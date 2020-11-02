@@ -17,7 +17,7 @@ const alexanderprincipe = {
     technologies: {
         mobileApp: ["Flutter App"],
         frontEnd: {
-            js: ["Vue", "Nuxt", "React"],
+            js: ["Vue", "Nuxt", "React", "Angular"],
             css: ["Sass", "vuetify", "bootstrap"]
         },
         backEnd: {
