@@ -1,6 +1,6 @@
 <h2> Hi, I'm Alexander Príncipe! <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="230">
-<p><em>System Engineer at <a href="https://www.ulima.edu.pe/">Universidad de Lima</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web Developer at <a href="https://www.interseguro.pe">Interseguro</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>System Engineer at <a href="https://www.ulima.edu.pe/">Universidad de Lima</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web Developer at <a href="https://www.movistar.com.pe/">Telefónica</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: alexanderprincipet](https://img.shields.io/twitter/follow/alexprincipet?style=social)](https://twitter.com/alexprincipet)
