@@ -3,7 +3,6 @@
 <p><em>System Engineer at <a href="https://www.ulima.edu.pe/">Universidad de Lima</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web Developer at <a href="https://www.movistar.com.pe/">Telefónica</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: alexanderprincipet](https://img.shields.io/twitter/follow/alexprincipet?style=social)](https://twitter.com/alexprincipet)
 [![Linkedin: alexanderprincipe](https://img.shields.io/badge/-alexanderprincipetolentino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/alexander-principe-tolentino-147714127/)
 [![GitHub alexanderprincipe](https://img.shields.io/github/followers/alexanderprincipe?label=follow&style=social)](https://github.com/alexanderprincipe)
 
