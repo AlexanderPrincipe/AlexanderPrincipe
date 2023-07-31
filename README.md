@@ -1,6 +1,6 @@
 <h2> Hi, I'm Alexander Príncipe! <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="230">
-<p><em>System Engineer at <a href="https://www.ulima.edu.pe/">Universidad de Lima</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web Developer at <a href="https://www.indracompany.com/">Indra</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>System Engineer at <a href="https://www.ulima.edu.pe/">Universidad de Lima</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Analyst Solutions Development <a href="https://www.indracompany.com/">BBVA Perú</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: alexanderprincipe](https://img.shields.io/badge/-alexanderprincipetolentino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/alexander-principe-tolentino-147714127/)
